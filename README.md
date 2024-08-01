@@ -23,32 +23,64 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 - Salvei e criei com o nome Estoque
 
 <img 
-    src="./imagens/01 import.png"
+    src="./Imagens/02 dataset.png"
     width="300"
 />
 
 ### 2. 
 -   O Dataset escolhido possui 4 anos, escolhi como target a coluna Quantidade_Estoque, o modelo de predição escolhido foi de 5 dias.
+<img 
+    src="./Imagens/03 target.png"
+    width="300"
+/>
 
 ### 3. 
 -   Como podemos ver na imagem tem uma correlação do tipo matrix, onde consta as relações entre o ID_PRODUTO, FLAG_PROMOCAO e a QUANTIDADE_ESTOQUE
 
+  <img 
+    src="./Imagens/04 correlacao.png"
+    width="300"
+/>
+
 ### 4. 
 -   Na imagem abaixo é possível ver o modelo escolhido:
 
+<img 
+    src="./Imagens/05 modelo.png"
+   
+/>
+
 ### 5.
-- Não adicionei nenhuma transformação em relação a mudança da type, formula ou valores perdidos. 
+- Não adicionei nenhuma transformação em relação a mudança da type, formula ou valores perdidos.
+
+<img 
+    src="./Imagens/06 analise.png"
+
+/>
 
 ### 6.
 - Escolhi o Target Quantidade_Estoque, pois o objetivo era analisar a quantidade de estoque com a data do evento e as vendas realizadas até o período.
 
+<img 
+    src="./Imagens/07 processo.png"
+    width="300"
+/>
+
 ### 7.
 - Abaixo mostro os modelos de predição gerado
+
+<img 
+    src="./Imagens/08 canva.png"
+   
+/>
 
 ### 8. 
 - Predição para o produto 4 com a flag de promoção 1
 
-
+<img 
+    src="./Imagens/09 predicao.png"
+    
+/>
 
 
 ## 🤔 Dúvidas?
