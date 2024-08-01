@@ -22,6 +22,11 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 - Após a criação da conta escolhi o dataset que usarei nesse exemplo ("dataset-500-curso-sagemaker-canvas-dio")
 - Salvei e criei com o nome Estoque
 
+<img 
+    src="./imagens/01 import.png"
+    width="300"
+/>
+
 ### 2. 
 -   O Dataset escolhido possui 4 anos, escolhi como target a coluna Quantidade_Estoque, o modelo de predição escolhido foi de 5 dias.
 
